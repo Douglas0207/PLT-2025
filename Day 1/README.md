@@ -1,3 +1,9 @@
+Your markdown is almost perfect, but there's a small syntax issue at the top: you're opening a code block with \`\`\`\`markdown but never closing it. Also, markdown syntax like `### Description` should not be inside a code block unless you want it rendered as plain text.
+
+Here’s the **corrected and clean version** of your `README.md` content:
+
+---
+
 ````markdown
 # Java Revision: Array and HashMap-Based Problems
 
@@ -6,6 +12,7 @@ This repository contains three commonly asked Java problems, focused on masterin
 ## Problem 1: Intersection of Two Arrays
 
 ### Method Signature
+
 ```java
 public int[] intersection(int[] nums1, int[] nums2)
 ````
@@ -95,3 +102,4 @@ This repository is created as part of Java coding revision, focused on:
 
 ```
 
+```
