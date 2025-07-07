@@ -1,7 +1,3 @@
-Certainly! Here's the `README.md` content in plain markdown format, without emojis or unnecessary decorations—perfect for a clean revision file:
-
----
-
 ````markdown
 # Java Revision: Array and HashMap-Based Problems
 
@@ -99,7 +95,3 @@ This repository is created as part of Java coding revision, focused on:
 
 ```
 
----
-
-You can now save this as `README.md` and place it in your project folder for future revision. Let me know if you need the actual files or project structure.
-```
