@@ -1,6 +1,4 @@
 
-
-````markdown
 # Java Revision: Array and HashMap-Based Problems
 
 This repository contains three commonly asked Java problems, focused on mastering arrays, sets, maps, and greedy logic. All functions are organized inside a single class `Day1.java` and executed using a separate `Main.java` class.
@@ -96,6 +94,4 @@ This repository is created as part of Java coding revision, focused on:
 * Greedy algorithm implementation
 * Clean structure and reusable code
 
-```
 
-```
