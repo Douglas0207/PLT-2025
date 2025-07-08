@@ -1,4 +1,4 @@
-# Day2 Java Problem Solvin
+# Day2 Java Problem Solving
 
 This Java program implements and demonstrates solutions for three classic algorithmic problems:
 
