@@ -54,6 +54,3 @@ This repository contains well-structured solutions for selected LeetCode problem
 
 ---
 
-## 📅 Day 5 Progress Badge
-![Progress](https://img.shields.io/badge/Day-5-green?style=for-the-badge)
-
