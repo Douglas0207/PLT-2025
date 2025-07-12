@@ -1,7 +1,7 @@
 
 ---
 
-# Java Algorithm Solutions
+# Java Algorithm Solutions - Day 6
 
 This repository contains multiple Java-based solutions for classic algorithmic problems. Each solution is implemented with clarity and optimized logic, making them suitable for learning and interviews.
 
