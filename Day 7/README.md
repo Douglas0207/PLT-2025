@@ -1,7 +1,7 @@
 
 ---
 
-# Java Algorithm Solutions – Set 2
+# Java Algorithm Solutions – Day 7
 
 This repository includes optimized Java solutions for three algorithmic problems commonly asked in technical interviews. Each implementation is designed to be clear, efficient, and easy to understand.
 
@@ -9,9 +9,9 @@ This repository includes optimized Java solutions for three algorithmic problems
 
 ## Table of Contents
 
-1. [Power of Two Check](#power-of-two-check)
-2. [Reverse Integer](#reverse-integer)
-3. [Merge K Sorted Lists](#merge-k-sorted-lists)
+1. Power of Two Check
+2. Reverse Integer
+3. Merge K Sorted Lists
 
 ---
 
