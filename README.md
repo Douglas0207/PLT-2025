@@ -1,10 +1,11 @@
+Here's your updated `README.md` with **Week 2 progress** added in the same clean format:
 
 ---
 
-# Week 1 Placement Training – Saveetha Engineering College
+# Placement Training – Saveetha Engineering College
 
-Welcome to my **Week 1 Placement Training Repository**!
-This repository contains my daily progress during the first week of placement training conducted by **Saveetha Engineering College** for the **2026 batch**.
+Welcome to my **Placement Training Repository**!
+This repository documents my daily progress during the **first two weeks** of placement training conducted by **Saveetha Engineering College** for the **2026 batch**.
 
 Each day includes solutions to:
 
@@ -12,11 +13,7 @@ Each day includes solutions to:
 * 🟡 1 Medium LeetCode Problem
 * 🔴 1 Hard LeetCode Problem
 
-All problems are organized in **day-wise folders (Day 1 to Day 7)**.
-Each folder contains:
-
-* ✅ Java solutions with well-commented code
-* 🧠 `README.md` file explaining the approach and algorithms used
+All problems are organized in **day-wise folders**, with clear Java solutions and explanations.
 
 ---
 
@@ -34,17 +31,28 @@ Each folder contains:
 
 ---
 
+## ✅ Week 2 Completion Status
+
+| Day   | Easy Problem                | Medium Problem                     | Hard Problem                      |
+| ----- | --------------------------- | ---------------------------------- | --------------------------------- |
+| Day 1 | 933. Number of Recent Calls | 866. Prime Palindrome              | 440. K-th Smallest in Lex Order   |
+| Day 2 | 141. Linked List Cycle      | 435. Non-overlapping Intervals     | 25. Reverse Nodes in k-Group      |
+| Day 3 | 637. Avg of Levels in Tree  | 82. Remove Duplicates from List II | 124. Binary Tree Maximum Path Sum |
+| Day 4 | 110. Balanced Binary Tree   | 740. Delete and Earn               | 968. Binary Tree Cameras          |
+
+---
+
 ## Summary
 
->  Completed **21 LeetCode problems** in **7 days**
->  Strengthened skills in **arrays, hashing, sliding window, recursion, and heaps**
->  Gained confidence solving **Easy to Hard-level problems daily**
+> 🏁 Completed **33 LeetCode problems** over **2 weeks**
+> ✅ Covered a wide range of topics: **arrays, linked lists, trees, dynamic programming, sliding window, heap, greedy**
+> 🚀 Developed stronger confidence in solving problems with increasing difficulty daily
 
 ---
 
 ## Special Thanks
 
-A huge thanks to **Saveetha Engineering College** for organizing this intensive placement training program and helping us sharpen our coding and aptitude skills early.
+A huge thanks to **Saveetha Engineering College** for organizing this intensive placement training program and providing early exposure to real-world problem-solving.
 
 ---
 
@@ -54,4 +62,10 @@ A huge thanks to **Saveetha Engineering College** for organizing this intensive 
 
 ---
 
-Let me know if you'd like me to generate badges, visual timelines, or add an upcoming "Week 2" tracker as well.
+Would you like me to:
+
+* Add **badges** like "🔥 33 Problems Solved"
+* Insert a **Week 3 Tracker (Coming Soon...)**
+* Create a **timeline chart** for visual progress?
+
+Let me know, and I can generate it directly.
