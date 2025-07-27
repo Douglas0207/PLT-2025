@@ -1,16 +1,12 @@
-Here's your updated `README.md` with **Week 2 progress** added in the same clean format:
-
----
-
 # Placement Training – Saveetha Engineering College
 
-Welcome to my **Placement Training Repository**!
-This repository documents my daily progress during the **first two weeks** of placement training conducted by **Saveetha Engineering College** for the **2026 batch**.
+Welcome to my **Placement Training Repository**!  
+This repository documents my daily progress during the **first three weeks** of placement training conducted by **Saveetha Engineering College** for the **2026 batch**.
 
 Each day includes solutions to:
 
-* 🟢 1 Easy LeetCode Problem
-* 🟡 1 Medium LeetCode Problem
+* 🟢 1 Easy LeetCode Problem  
+* 🟡 1 Medium LeetCode Problem  
 * 🔴 1 Hard LeetCode Problem
 
 All problems are organized in **day-wise folders**, with clear Java solutions and explanations.
@@ -42,11 +38,24 @@ All problems are organized in **day-wise folders**, with clear Java solutions an
 
 ---
 
+## ✅ Week 3 Completion Status
+
+> 🟩 Focused on **Trees**, so only 3 problem-solving days.  
+> 🔁 Other days were revision and concept strengthening.
+
+| Day   | Easy Problem          | Medium Problem           | Hard Problem                      |
+| ----- | --------------------- | ------------------------ | --------------------------------- |
+| Day 1 | 100. Same Tree        | 113. Path Sum II         | 297. Serialize and Deserialize BT |
+| Day 2 | 463. Island Perimeter | 105. Construct BT (PI+IN) | 1192. Critical Connections        |
+| Day 3 | 258. Add Digits       | 24. Swap Nodes in Pairs  | 2493. Divide Nodes Into Groups    |
+
+---
+
 ## Summary
 
-> 🏁 Completed **33 LeetCode problems** over **2 weeks**
-> ✅ Covered a wide range of topics: **arrays, linked lists, trees, dynamic programming, sliding window, heap, greedy**
-> 🚀 Developed stronger confidence in solving problems with increasing difficulty daily
+> 🏁 Completed **42 LeetCode problems** over **3 weeks**  
+> ✅ Strong understanding in **Trees**, **Graphs**, **Recursion**, **Greedy**, **Sliding Window**, and more  
+> 🔄 Week 3 emphasized **depth in tree problems** rather than speed
 
 ---
 
@@ -59,13 +68,3 @@ A huge thanks to **Saveetha Engineering College** for organizing this intensive 
 ## Connect with Me
 
 📌 LinkedIn: [Robinson Douglas](https://www.linkedin.com/in/robinson02072004/)
-
----
-
-Would you like me to:
-
-* Add **badges** like "🔥 33 Problems Solved"
-* Insert a **Week 3 Tracker (Coming Soon...)**
-* Create a **timeline chart** for visual progress?
-
-Let me know, and I can generate it directly.
