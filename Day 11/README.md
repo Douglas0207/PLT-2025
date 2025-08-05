@@ -2,7 +2,7 @@
 
 This repository includes optimized Java solutions for three algorithmic problems commonly asked in technical interviews. Each implementation is designed to be clear, efficient, and easy to understand.
 
---
+-
 
 ## Table of Contents
 
