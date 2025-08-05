@@ -1,19 +1,19 @@
 # Placement Training – Saveetha Engineering College
 
 Welcome to my **Placement Training Repository**!  
-This repository documents my daily progress during the **first three weeks** of placement training conducted by **Saveetha Engineering College** for the **2026 batch**.
+This repository documents my daily progress during the **4-week placement training** conducted by **Saveetha Engineering College** for the **2026 batch**.
 
 Each day includes solutions to:
 
-* 🟢 1 Easy LeetCode Problem  
-* 🟡 1 Medium LeetCode Problem  
-* 🔴 1 Hard LeetCode Problem
+*  1 Easy LeetCode Problem  
+*  1 Medium LeetCode Problem  
+*  1 Hard LeetCode Problem
 
 All problems are organized in **day-wise folders**, with clear Java solutions and explanations.
 
 ---
 
-## ✅ Week 1 Completion Status
+## Week 1 Completion Status
 
 | Day   | Easy Problem                    | Medium Problem                              | Hard Problem                      |
 | ----- | ------------------------------- | ------------------------------------------- | --------------------------------- |
@@ -27,7 +27,7 @@ All problems are organized in **day-wise folders**, with clear Java solutions an
 
 ---
 
-## ✅ Week 2 Completion Status
+## Week 2 Completion Status
 
 | Day   | Easy Problem                | Medium Problem                     | Hard Problem                      |
 | ----- | --------------------------- | ---------------------------------- | --------------------------------- |
@@ -38,10 +38,10 @@ All problems are organized in **day-wise folders**, with clear Java solutions an
 
 ---
 
-## ✅ Week 3 Completion Status
+## Week 3 Completion Status
 
-> 🟩 Focused on **Trees**, so only 3 problem-solving days.  
-> 🔁 Other days were revision and concept strengthening.
+>  Focused on **Trees**, so only 3 problem-solving days.  
+>  Other days were revision and concept strengthening.
 
 | Day   | Easy Problem          | Medium Problem           | Hard Problem                      |
 | ----- | --------------------- | ------------------------ | --------------------------------- |
@@ -51,11 +51,30 @@ All problems are organized in **day-wise folders**, with clear Java solutions an
 
 ---
 
+## Week 4 Completion Status
+
+| Day   | Easy Problem | Medium Problem | Hard Problem           |
+| ----- | ------------ | -------------- | ---------------------- |
+| Day 1 | 263          | 109            | 2608                   |
+| Day 2 | 9            | 207            | 336                    |
+| Day 3 | 1550         | 743            | 329                    |
+| Day 4 | 374          | 785            | 1547                   |
+| Day 5 | 733          | 2149           | 174                    |
+| Day 6 | 1051         | 994            | 818                    |
+
+---
+
 ## Summary
 
-> 🏁 Completed **42 LeetCode problems** over **3 weeks**  
-> ✅ Strong understanding in **Trees**, **Graphs**, **Recursion**, **Greedy**, **Sliding Window**, and more  
-> 🔄 Week 3 emphasized **depth in tree problems** rather than speed
+>  Completed **60 LeetCode problems** over **4 weeks**  
+>  Strengthened concepts in:
+- Arrays & Strings  
+- Trees & Graphs  
+- Recursion & Backtracking  
+- Greedy Algorithms  
+- Sliding Window & Two Pointers  
+- Heaps, HashMaps, and Binary Search  
+> Week 4 included more **diverse algorithm topics and problem-solving strategies**
 
 ---
 
@@ -67,4 +86,4 @@ A huge thanks to **Saveetha Engineering College** for organizing this intensive 
 
 ## Connect with Me
 
-📌 LinkedIn: [Robinson Douglas](https://www.linkedin.com/in/robinson02072004/)
+LinkedIn: [Robinson Douglas](https://www.linkedin.com/in/robinson02072004/)
