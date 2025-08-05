@@ -53,14 +53,15 @@ All problems are organized in **day-wise folders**, with clear Java solutions an
 
 ## Week 4 Completion Status
 
-| Day   | Easy Problem | Medium Problem | Hard Problem           |
-| ----- | ------------ | -------------- | ---------------------- |
-| Day 1 | 263          | 109            | 2608                   |
-| Day 2 | 9            | 207            | 336                    |
-| Day 3 | 1550         | 743            | 329                    |
-| Day 4 | 374          | 785            | 1547                   |
-| Day 5 | 733          | 2149           | 174                    |
-| Day 6 | 1051         | 994            | 818                    |
+
+| Day   | Easy Problem                      | Medium Problem                         | Hard Problem                             |
+| ----- | --------------------------------- | -------------------------------------- | ---------------------------------------- |
+| Day 1 | 263. Ugly Number                  | 109. Convert Sorted List to BST        | 2608. Shortest Cycle in a Graph          |
+| Day 2 | 9. Palindrome Number              | 207. Course Schedule                   | 336. Palindrome Pairs                    |
+| Day 3 | 1550. Three Consecutive Odds      | 743. Network Delay Time                | 329. Longest Increasing Path in a Matrix |
+| Day 4 | 374. Guess Number Higher or Lower | 785. Is Graph Bipartite?               | 1547. Minimum Cost to Cut a Stick        |
+| Day 5 | 733. Flood Fill                   | 2149. Rearrange Array Elements by Sign | 174. Dungeon Game                        |
+| Day 6 | 1051. Height Checker              | 994. Rotting Oranges                   | 818. Race Car                            |
 
 ---
 
